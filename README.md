@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/S-3m3HOPGicAAAAj/flower-banner.gif" width="500"/>
+  <img src="https://media.tenor.com/S-3m3HOPGicAAAAj/flower-banner.gif" width="1000"/>
 </div>
 
 <div id="header" align="center">
