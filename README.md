@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://tenor.com/ru/view/alnst-ivan-alnst-ivan-alien-stage-ivan-alien-stage-gif-13213927662192130804" width="1000"/>
+  <img src="https://media.tenor.com/3Jr3u18VbNgAAAAm/stamp-spacehey.webp" width="1000"/>
 </div>
 
 
