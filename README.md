@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/UF3Yi0ZtBywAAAA1/clo-baek-saheon.webp" width="300"/>
+  <img src="https://media.tenor.com/UF3Yi0ZtBywAAAA1/clo-baek-saheon.webp" width="150"/>
 </div>
 
 
