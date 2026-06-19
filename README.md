@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/3Jr3u18VbNgAAAAm/stamp-spacehey.webp" width="10"/>
+  <img src="https://media.tenor.com/3Jr3u18VbNgAAAAm/stamp-spacehey.webp" width="100"/>
 </div>
 
 
