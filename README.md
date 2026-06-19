@@ -8,6 +8,10 @@
 </tr> 
 </table>
 
+<div id="header" align="center">
+ЭТИ ТУПЫЕ КОТЫ ИРЛ МЫ С ЛИСОЙ
+
+
 
 <div id="header" align="center">
   <img src="https://media.tenor.com/b633FkUeLZMAAAAM/alien-stage-ivan.gif" width="700"/>
