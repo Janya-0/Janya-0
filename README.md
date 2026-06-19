@@ -1,4 +1,4 @@
-[<div id="header" align="center">]
+<div id="header" align="center">
 иванлуки это мы с лисой
 [<div id="header" align="center">]
   <img src="https://media.tenor.com/efCIIYck5zYAAAAM/ivan-alien-stage-luka-alien-stage.gif" width="350"/>
