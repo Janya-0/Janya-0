@@ -5,12 +5,13 @@
 </div> 
 <table> 
 <tr> 
-<td><img src="https://media.tenor.com/1-zvtTMMNfgAAAAm/strawberry-banner.webp" /> 
+<td><img src="https://media.tenor.com/H09_9GAPi5EAAAAm/keyboards.webp" /> 
 </td> 
-<td><img src="https://media.tenor.com/1-zvtTMMNfgAAAAm/strawberry-banner.webp" /> 
+<td><img src="https://media.tenor.com/H09_9GAPi5EAAAAm/keyboards.webp" /> 
 </td> 
 </tr> 
 </table>
+
 
 
 <div id="header" align="center">
