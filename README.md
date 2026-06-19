@@ -1,4 +1,4 @@
-
+<div id="header" align="center"
 <table> 
 <tr> 
 <td><img src="https://media.tenor.com/7EEHdh1SoP0AAAAM/france-flag.gif" /> 
