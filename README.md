@@ -3,14 +3,6 @@
 <div id="header" align="center">
   <img src="https://media.tenor.com/cztX9DCxbl4AAAAm/cat-cats.webp" width="350"/>
 </div> 
-<table> 
-<tr> 
-<td><img src="https://media.tenor.com/cztX9DCxbl4AAAAm/cat-cats.webp" /> 
-</td> 
-<td><img src="https://media.tenor.com/cztX9DCxbl4AAAAm/cat-cats.webp" /> 
-</td> 
-</tr> 
-</table>
 
 
 
