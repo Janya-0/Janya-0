@@ -1,3 +1,4 @@
+<div id="header" align="center">
 <table> 
 <tr> 
 <td><img src="https://media.tenor.com/Jq5t0aytb3sAAAAC/cat-war.gif" /> 
