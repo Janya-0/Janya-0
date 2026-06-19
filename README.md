@@ -5,9 +5,9 @@
 </div> 
 <table> 
 <tr> 
-<td><img src="https://media.tenor.com/H09_9GAPi5EAAAAm/keyboards.webp" /> 
+<td><img src="https://media.tenor.com/cztX9DCxbl4AAAAm/cat-cats.webp" /> 
 </td> 
-<td><img src="https://media.tenor.com/H09_9GAPi5EAAAAm/keyboards.webp" /> 
+<td><img src="https://media.tenor.com/cztX9DCxbl4AAAAm/cat-cats.webp" /> 
 </td> 
 </tr> 
 </table>
