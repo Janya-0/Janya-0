@@ -11,14 +11,6 @@
 </td> 
 </tr> 
 </table>
-<table> 
-<tr> 
-<td><img src="https://media.tenor.com/1-zvtTMMNfgAAAAm/strawberry-banner.webp" /> 
-</td> 
-<td><img src="https://media.tenor.com/1-zvtTMMNfgAAAAm/strawberry-banner.webp" /> 
-</td> 
-</tr> 
-</table>
 
 
 <div id="header" align="center">
