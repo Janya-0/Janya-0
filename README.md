@@ -46,16 +46,16 @@
 <div id="header" align="center">
 <table> 
 <tr> 
-<td><img src="https://media.tenor.com/UF3Yi0ZtBywAAAA1/clo-baek-saheon.webp" /> 
+<td><img src="https://media.tenor.com/3pKdPbHydkMAAAAM/деб-дэб.gif" /> 
 </td> 
-<td><img src="https://media.tenor.com/UF3Yi0ZtBywAAAA1/clo-baek-saheon.webp" /> 
+<td><img src="https://media.tenor.com/3pKdPbHydkMAAAAM/деб-дэб.gif" /> 
 </td> 
-  <td><img src="https://media.tenor.com/UF3Yi0ZtBywAAAA1/clo-baek-saheon.webp" /> 
-    <td><img src="https://media.tenor.com/UF3Yi0ZtBywAAAA1/clo-baek-saheon.webp" /> 
+  <td><img src="https://media.tenor.com/3pKdPbHydkMAAAAM/деб-дэб.gif" /> 
+    <td><img src="https://media.tenor.com/3pKdPbHydkMAAAAM/деб-дэб.gif" /> 
 </td> 
-  <td><img src="https://media.tenor.com/UF3Yi0ZtBywAAAA1/clo-baek-saheon.webp" /> 
+  <td><img src="https://media.tenor.com/3pKdPbHydkMAAAAM/деб-дэб.gif" /> 
 </td> 
-  <td><img src="https://media.tenor.com/UF3Yi0ZtBywAAAA1/clo-baek-saheon.webp" /> 
+  <td><img src="https://media.tenor.com/3pKdPbHydkMAAAAM/деб-дэб.gif" /> 
    
 </td> 
   <td><img src="https://media.tenor.com/3pKdPbHydkMAAAAM/деб-дэб.gif" /> 
