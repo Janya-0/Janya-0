@@ -63,8 +63,7 @@
   <td><img src="https://media.tenor.com/3pKdPbHydkMAAAAM/деб-дэб.gif" /> 
 </td> 
 <td><img src="https://media.tenor.com/3pKdPbHydkMAAAAM/деб-дэб.gif" /> 
-</td> <td><img src="https://media.tenor.com/3pKdPbHydkMAAAAM/деб-дэб.gif" /> 
-</td> <td><img src="https://media.tenor.com/3pKdPbHydkMAAAAM/деб-дэб.gif" /> 
+
 </td> 
 </td> 
 </td> 
