@@ -1,5 +1,5 @@
 
- ![](https://komarev.com/ghpvc/?username=-Janya-0&color=ff69b4)
+ ![](https://komarev.com/ghpvc/?username=Janya-0&color=ff69b4)
 
 <div id="header" align="center">
 <table> 
