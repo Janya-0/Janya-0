@@ -63,3 +63,6 @@ bo son (to the stars and back)
 </div>
 
 
+<div align="center">
+  <img src="https://tenor.com/ru/view/discord-strawberry-kawaii-uwu-gif-21869415" width="700" height="10"/>
+</div>
