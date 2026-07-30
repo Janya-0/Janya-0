@@ -64,5 +64,5 @@ bo son (to the stars and back)
 
 
 <div align="center">
-  <img src="https://media.tenor.com/0lpE7LZgYKwAAAAM/soft-strawberry.gif" width="700" height="50"/>
+  <img src="https://media.tenor.com/0lpE7LZgYKwAAAAM/soft-strawberry.gif" width="700" height="10"/>
 </div>
