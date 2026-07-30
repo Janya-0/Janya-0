@@ -28,7 +28,7 @@
 
 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="t.me/Oneratot">
     <img src="https://img.shields.io/badge/Telegram-pink?style=for-the-badge&logo=Telegram&logoColor=white" alt="telegram Badge" 
   </a>
   <a href="your-youtube-URL">
