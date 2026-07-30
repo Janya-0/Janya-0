@@ -64,5 +64,5 @@ bo son (to the stars and back)
 
 
 <div align="center">
-  <img src="https://tenor.com/ru/view/pixel-art-cat-cute-adorable-fluffy-cat-gif-7929121331790077720" width="700" height="50"/>
+  <img src="https://media.tenor.com/0lpE7LZgYKwAAAAM/soft-strawberry.gif" width="700" height="50"/>
 </div>
