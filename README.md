@@ -52,9 +52,17 @@
 
 Chaerim (first summer)
 <div align="center">
+  <img src="https://media.tenor.com/0lpE7LZgYKwAAAAM/soft-strawberry.gif" width="700" height="10"/>
+</div>
+
+<div align="center">
   <img src="https://media1.tenor.com/m/lr6Me7qyE-IAAAAd/сакура.gif" width="700" height="25"/>
 </div>
 <div align="center">
+ <div align="center">
+  <img src="https://media.tenor.com/0lpE7LZgYKwAAAAM/soft-strawberry.gif" width="700" height="10"/>
+</div>
+
   <img src="https://media1.tenor.com/m/COCQ5Yorv5sAAAAd/thoma-taroumaru.gif" width="600" height="200"/>
 </div>
 thoma (genshin impact)
