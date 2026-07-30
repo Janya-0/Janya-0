@@ -31,8 +31,8 @@
   <a href="t.me/Oneratot">
     <img src="https://img.shields.io/badge/Telegram-pink?style=for-the-badge&logo=Telegram&logoColor=white" alt="telegram Badge" 
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Pinterest-pink?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest Badge"/>
+  <a href="https://www.tiktok.com/@janya_kawaii?_r=1&_t=ZS-98SWP7HWriS">
+    <img src="https://img.shields.io/badge/Tiktok-black?style=for-the-badge&logo=Tiktok&logoColor=pink" alt="Tiktok Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
