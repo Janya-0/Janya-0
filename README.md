@@ -38,6 +38,7 @@
     <img src="https://img.shields.io/badge/discord-pink?style=for-the-badge&logo=discord&logoColor=white" alt="discord Badge"/>
   </a>
 </div>
+   ![](https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4)
 my kinn list:
 <div id="header" align="center">
   <img src="https://i.pinimg.com/736x/48/b0/de/48b0de85b2b4186586912095db6b2be8.jpg" width="100"/>
