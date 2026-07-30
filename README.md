@@ -28,7 +28,7 @@
 
 
 <div id="badges">
-  <a href="t.me/Oneratot">
+  <a href="https://t.me/Oneratot">Telegram: @жаня аниме отаку #яой!!">
     <img src="https://img.shields.io/badge/Telegram-pink?style=for-the-badge&logo=Telegram&logoColor=white" alt="telegram Badge" 
   </a>
   <a href="https://www.tiktok.com/@janya_kawaii?_r=1&_t=ZS-98SWP7HWriS">
