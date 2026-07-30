@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/discord-pink?style=for-the-badge&logo=discord&logoColor=white" alt="discord Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=Janya-0&style=flat-square&color=" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Janya-0&style=flat-square&color=red" alt=""/>
 
    my kinn list:
 <div id="header" align="center">
