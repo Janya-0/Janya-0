@@ -48,5 +48,5 @@
   <img src="https://i.pinimg.com/736x/c7/a9/07/c7a907175a75e1838e993dcdd9cb4dbb.jpg" width="100"/>
 </div>
 <div align="center">
-  <img src="https://i.pinimg.com/736x/48/b0/de/48b0de85b2b4186586912095db6b2be8.jpg" width="200" height="300"/>
+  <img src="https://i.pinimg.com/736x/48/b0/de/48b0de85b2b4186586912095db6b2be8.jpg" width="600" height="200"/>
 </div>
