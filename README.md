@@ -39,3 +39,6 @@
   </a>
 </div>
 my kinn list:
+<div id="header" align="center">
+  <img src="https://pin.it/4dLxoUB4n" width="100"/>
+</div>
