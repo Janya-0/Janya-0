@@ -40,9 +40,16 @@
 <img src="https://komarev.com/ghpvc/?username=Janya-0&style=flat-square&color=ff69b4" alt=""/>
 
    my kinn list:
+   <div align="center">
+  <img src="https://media.tenor.com/0lpE7LZgYKwAAAAM/soft-strawberry.gif" width="700" height="10"/>
+</div>
 <div align="center">
   <img src="https://i.pinimg.com/736x/48/b0/de/48b0de85b2b4186586912095db6b2be8.jpg" width="600" height="200"/>
 </div>
+<div align="center">
+  <img src="https://media.tenor.com/0lpE7LZgYKwAAAAM/soft-strawberry.gif" width="700" height="10"/>
+</div>
+
 Chaerim (first summer)
 <div align="center">
   <img src="https://media1.tenor.com/m/lr6Me7qyE-IAAAAd/сакура.gif" width="700" height="25"/>
@@ -63,6 +70,3 @@ bo son (to the stars and back)
 </div>
 
 
-<div align="center">
-  <img src="https://media.tenor.com/0lpE7LZgYKwAAAAM/soft-strawberry.gif" width="700" height="10"/>
-</div>
