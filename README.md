@@ -40,5 +40,5 @@
 </div>
 my kinn list:
 <div id="header" align="center">
-  <img src="https://pin.it/4dLxoUB4n" width="1000"/>
+  <img src="https://pin.it/1Xx0Iahz4" width="1000"/>
 </div>
