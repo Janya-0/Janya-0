@@ -64,5 +64,5 @@ bo son (to the stars and back)
 
 
 <div align="center">
-  <img src="https://tenor.com/ru/view/discord-strawberry-kawaii-uwu-gif-21869415" width="700" height="10"/>
+  <img src="https://tenor.com/ru/view/pixel-art-cat-cute-adorable-fluffy-cat-gif-7929121331790077720" width="700" height="10"/>
 </div>
