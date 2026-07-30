@@ -34,7 +34,7 @@
   <a href="https://www.tiktok.com/@janya_kawaii?_r=1&_t=ZS-98SWP7HWriS">
     <img src="https://img.shields.io/badge/Tiktok-black?style=for-the-badge&logo=Tiktok&logoColor=pink" alt="Tiktok Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://discord.gg/ZS3bxTbc">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
