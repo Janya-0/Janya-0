@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/discord-pink?style=for-the-badge&logo=discord&logoColor=white" alt="discord Badge"/>
   </a>
 </div>
-   ![](https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4)
+   <img src="https://komarev.com/ghpvc/?username=Janya-0&style=flat-square&color=pink" alt=""/>
 
    my kinn list:
 <div id="header" align="center">
