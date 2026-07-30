@@ -50,7 +50,9 @@ Chaerim (first summer)
 <div align="center">
   <img src="https://media1.tenor.com/m/COCQ5Yorv5sAAAAd/thoma-taroumaru.gif" width="600" height="200"/>
 </div>
-
+<div align="center">
+  <img src="https://media1.tenor.com/m/lr6Me7qyE-IAAAAd/сакура.gif" width="700" height="25"/>
+</div>
 <div align="center">
   <img src="https://i.pinimg.com/736x/c7/a9/07/c7a907175a75e1838e993dcdd9cb4dbb.jpg" width="600" height="200"/>
 </div>
