@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/Telegram-pink?style=for-the-badge&logo=Telegram&logoColor=white" alt="telegram Badge" 
   </a>
   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Likee-pink?style=for-the-badge&logo=Likee&logoColor=white" alt="Likee Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
