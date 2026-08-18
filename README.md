@@ -84,7 +84,7 @@ thoma (genshin impact)
   <img src="https://media.tenor.com/0lpE7LZgYKwAAAAM/soft-strawberry.gif" width="700" height="10"/>
 </div>
 
-bo son (to the stars and back)
+hayato suo (windbreaker) 
 <div align="center">
  <div align="center">
   <img src="https://media.tenor.com/0lpE7LZgYKwAAAAM/soft-strawberry.gif" width="700" height="10"/>
