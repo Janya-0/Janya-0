@@ -78,7 +78,7 @@ thoma (genshin impact)
   <img src="https://media1.tenor.com/m/lr6Me7qyE-IAAAAd/сакура.gif" width="700" height="25"/>
 </div>
 <div align="center">
-  <img src="https://i.pinimg.com/736x/c7/a9/07/c7a907175a75e1838e993dcdd9cb4dbb.jpg" width="600" height="200"/>
+  <img src="https://media1.tenor.com/m/7Zs-suACJWgAAAAC/suo-hayato-suo.gif" width="600" height="200"/>
 </div>
 <div align="center">
   <img src="https://media.tenor.com/0lpE7LZgYKwAAAAM/soft-strawberry.gif" width="700" height="10"/>
