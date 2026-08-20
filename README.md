@@ -1,25 +1,25 @@
 <div id="header" align="center">
 <table> 
 <tr> 
-<td><img src="https://media.tenor.com/Fl04-gdxXAsAAAAj/stamp-stocking.gif" /> 
+<td><img src="https://media.tenor.com/Grpg_vBq8coAAAAi/stamp-cat.gif" /> 
 </td> 
-<td><img src="https://media.tenor.com/H-JCfC_m6R0AAAAi/stamp-cat.gif" /> 
+<td><img src="https://media.tenor.com/CHOikupvVjMAAAAi/cute-stamp.gif" /> 
 </td> 
-<td><img src="https://media.tenor.com/uVsR56g7XK4AAAAi/korillakuma-stamp.gif" /> 
+<td><img src="https://media.tenor.com/6LyxPrLb58cAAAAi/tone-rion-stamp.gif" /> 
 </td> 
-<td><img src="https://media.tenor.com/ZVtofhkFAiAAAAAi/stamp.gif" /> 
+<td><img src="https://media.tenor.com/04kAW7ZbUSYAAAAi/stamp-kangel.gif" /> 
 </td> 
-<td><img src="https://media.tenor.com/Ki7H4vvzoSMAAAAi/glitter-fairy.gif" /> 
+<td><img src="https://media.tenor.com/p7o6VPHkhokAAAAi/mizi-zombie-stage.gif" /> 
 </td> 
-<td><img src="https://media.tenor.com/eLekwgRveAcAAAAi/transmasc-transmasculine.gif" /> 
+<td><img src="https://media.tenor.com/6tkPtHB7kukAAAAi/kasane-teto-teto-kasane.gif" /> 
 </td> 
-<td><img src="https://media.tenor.com/ZSDRVqFG9f8AAAAi/jerma-rainbow.gif" /> 
+<td><img src="https://media.tenor.com/gYkekK4hYdMAAAAi/stamp-stocking.gif" /> 
 </td> 
-<td><img src="https://media.tenor.com/u8lpXtAbPAQAAAAi/bisexual-stamp.gif" /> 
+<td><img src="https://media.tenor.com/BF_GzkfOqaoAAAAi/inanimate-insanity-paintbrush.gif" /> 
 </td> 
-<td><img src="https://media.tenor.com/AzMIFQEoqTIAAAAi/kedamono-popee-the-preformer.gif" /> 
+<td><img src="https://media.tenor.com/eBReyRJXR68AAAAi/kalynn-koury-sinjin-drowning.gif" /> 
 </td> 
-<td><img src="https://media.tenor.com/8grt2klZ4KsAAAAi/mizi-zombie-stage.gif" /> 
+<td><img src="https://media.tenor.com/pbMjnMpOpFwAAAAi/cute-stamp.gif" /> 
 </td> 
 
 
