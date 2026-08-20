@@ -32,6 +32,12 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=Janya-0&style=flat-square&color=ff69b4" alt=""/>
 
+<div id="header" align="center">
+<table> 
+<tr> 
+<td><img src="https://tenor.com/ru/view/stamp-stocking-gif-1611506888186354699" /> 
+</td> 
+
    my kinn list:
    <div align="center">
   <img src="https://media.tenor.com/0lpE7LZgYKwAAAAM/soft-strawberry.gif" width="700" height="10"/>
