@@ -7,7 +7,7 @@
 </td> 
 <td><img src="https://media.tenor.com/fqaI-4Dr5aUAAAAi/heisuke-sakamoto-days.gif" /> 
 </td> 
-<td><img src="https://media.tenor.com/04kAW7ZbUSYAAAAi/stamp-kangel.gif" /> 
+<td><img src="https://media.tenor.com/u99bOAFYbJ8AAAAi/crona-stamp.gif" /> 
 </td> 
 <td><img src="https://media.tenor.com/p7o6VPHkhokAAAAi/mizi-zombie-stage.gif" /> 
 </td> 
