@@ -5,7 +5,7 @@
 </td> 
 <td><img src="https://media.tenor.com/CHOikupvVjMAAAAi/cute-stamp.gif" /> 
 </td> 
-<td><img src="https://media.tenor.com/6LyxPrLb58cAAAAi/tone-rion-stamp.gif" /> 
+<td><img src="https://media.tenor.com/fqaI-4Dr5aUAAAAi/heisuke-sakamoto-days.gif" /> 
 </td> 
 <td><img src="https://media.tenor.com/04kAW7ZbUSYAAAAi/stamp-kangel.gif" /> 
 </td> 
