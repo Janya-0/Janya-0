@@ -35,7 +35,7 @@
 <div id="header" align="center">
 <table> 
 <tr> 
-<td><img src="https://tenor.com/ru/view/stamp-stocking-gif-1611506888186354699" /> 
+<td><img src="https://media.tenor.com/Fl04-gdxXAsAAAAj/stamp-stocking.gif" /> 
 </td> 
 
 </tr> 
