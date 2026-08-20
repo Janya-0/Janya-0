@@ -38,6 +38,9 @@
 <td><img src="https://tenor.com/ru/view/stamp-stocking-gif-1611506888186354699" /> 
 </td> 
 
+</tr> 
+</table>
+
    my kinn list:
    <div align="center">
   <img src="https://media.tenor.com/0lpE7LZgYKwAAAAM/soft-strawberry.gif" width="700" height="10"/>
