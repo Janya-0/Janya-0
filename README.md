@@ -37,6 +37,25 @@
 <tr> 
 <td><img src="https://media.tenor.com/Fl04-gdxXAsAAAAj/stamp-stocking.gif" /> 
 </td> 
+<td><img src="https://media.tenor.com/H-JCfC_m6R0AAAAi/stamp-cat.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/uVsR56g7XK4AAAAi/korillakuma-stamp.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/ZVtofhkFAiAAAAAi/stamp.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/Ki7H4vvzoSMAAAAi/glitter-fairy.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/eLekwgRveAcAAAAi/transmasc-transmasculine.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/ZSDRVqFG9f8AAAAi/jerma-rainbow.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/u8lpXtAbPAQAAAAi/bisexual-stamp.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/AzMIFQEoqTIAAAAi/kedamono-popee-the-preformer.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/8grt2klZ4KsAAAAi/mizi-zombie-stage.gif" /> 
+</td> 
+
 
 </tr> 
 </table>
