@@ -125,9 +125,6 @@ Chaerim (first summer)
   <img src="https://media1.tenor.com/m/COCQ5Yorv5sAAAAd/thoma-taroumaru.gif" width="600" height="200"/>
 </div>
 <div align="center">
-  <img src="https://media.tenor.com/0lpE7LZgYKwAAAAM/soft-strawberry.gif" width="700" height="10"/>
-</div>
-
 thoma (genshin impact)
 
 <div align="center">
