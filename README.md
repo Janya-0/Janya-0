@@ -155,11 +155,31 @@ thoma (genshin impact)
 </table>
 
 
-<div align="center">
-  <img src="https://media.tenor.com/0lpE7LZgYKwAAAAM/soft-strawberry.gif" width="700" height="10"/>
-</div>
+
 
 hayato suo (windbreaker) 
 
-
+<div id="header" align="center">
+<table> 
+<tr> 
+<td><img src="https://media.tenor.com/EhrzYDUEPjEAAAAi/stamp-kikuo.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/eYLvJiMxr1EAAAAi/neapolitan-stamp.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/-_HVFqoJaQQAAAAi/cuphead-mugman.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/TnyNb-5yF9QAAAAi/bjork-stamp.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/xKbUTsZ_P8gAAAAi/hatsune-miku-stamp.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/UR00RmAZEFoAAAAi/nightcore-stamp-stamp.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/I43sEfuuHyAAAAAi/stamp-flowers.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/638pSaEVvLMAAAAi/sally-face-silly-jailtime.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/7wrf-RAhtAAAAAAi/suicune-pokemon.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/2hlTvsXaBREAAAAi/stamp-pony.gif" /> 
+</td> 
 
