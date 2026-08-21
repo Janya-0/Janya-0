@@ -101,7 +101,7 @@ Chaerim (first summer)
 </td> 
 <td><img src="https://media.tenor.com/ESgVUBs_WqAAAAAi/stamp-spacehey.gif" /> 
 </td> 
-<td><img src="https://media.tenor.com/vaiet8RzfUwAAAAi/goodnight-punpun-aiko.gif" /> 
+<td><img src="https://media.tenor.com/rq7rOMw356AAAAAi/destinyshipping-ninjago.gif" /> 
 </td> 
 <td><img src="https://media.tenor.com/-cagOoMGchYAAAAi/my-little-pony-stamp.gif" /> 
 </td> 
