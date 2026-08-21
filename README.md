@@ -97,25 +97,25 @@ Chaerim (first summer)
 <div id="header" align="center">
 <table> 
 <tr> 
-<td><img src="" /> 
+<td><img src="https://media.tenor.com/pAKC9SNdQ1kAAAAi/stamp-cat.gif" /> 
 </td> 
-<td><img src="https://media.tenor.com/CHOikupvVjMAAAAi/cute-stamp.gif" /> 
+<td><img src="https://media.tenor.com/ESgVUBs_WqAAAAAi/stamp-spacehey.gif" /> 
 </td> 
-<td><img src="https://media.tenor.com/fqaI-4Dr5aUAAAAi/heisuke-sakamoto-days.gif" /> 
+<td><img src="https://media.tenor.com/vaiet8RzfUwAAAAi/goodnight-punpun-aiko.gif" /> 
 </td> 
-<td><img src="https://media.tenor.com/u99bOAFYbJ8AAAAi/crona-stamp.gif" /> 
+<td><img src="https://media.tenor.com/-cagOoMGchYAAAAi/my-little-pony-stamp.gif" /> 
 </td> 
-<td><img src="https://media.tenor.com/p7o6VPHkhokAAAAi/mizi-zombie-stage.gif" /> 
+<td><img src="https://media.tenor.com/r8qnfVr4SxsAAAAi/kidcore-rainbowcore.gif" /> 
 </td> 
-<td><img src="https://media.tenor.com/6tkPtHB7kukAAAAi/kasane-teto-teto-kasane.gif" /> 
+<td><img src="https://media.tenor.com/QMpGb-lIav0AAAAi/inanimate-insanity-mephone-4.gif" /> 
 </td> 
-<td><img src="https://media.tenor.com/gYkekK4hYdMAAAAi/stamp-stocking.gif" /> 
+<td><img src="https://media.tenor.com/8SsTmkEVG2YAAAAi/stamp-omori.gif" /> 
 </td> 
-<td><img src="https://media.tenor.com/BF_GzkfOqaoAAAAi/inanimate-insanity-paintbrush.gif" /> 
+<td><img src="https://media.tenor.com/kJ9IgKgjhOIAAAAi/kaito-project-diva.gif" /> 
 </td> 
-<td><img src="https://media.tenor.com/eBReyRJXR68AAAAi/kalynn-koury-sinjin-drowning.gif" /> 
+<td><img src="https://media.tenor.com/y4mNJ2p70g0AAAAi/spacehey-stamp.gif" /> 
 </td> 
-<td><img src="https://media.tenor.com/pbMjnMpOpFwAAAAi/cute-stamp.gif" /> 
+<td><img src="https://media.tenor.com/RdPfJKfPkvMAAAAi/stamp-lain.gif" /> 
 </td> 
 
 
