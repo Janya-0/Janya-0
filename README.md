@@ -127,9 +127,7 @@ Chaerim (first summer)
 <div align="center">
 thoma (genshin impact)
 
-<div align="center">
-  <img src="https://media1.tenor.com/m/lr6Me7qyE-IAAAAd/сакура.gif" width="700" height="25"/>
-</div>
+
 <div align="center">
   <img src="https://media1.tenor.com/m/7Zs-suACJWgAAAAC/suo-hayato-suo.gif" width="600" height="200"/>
 </div>
