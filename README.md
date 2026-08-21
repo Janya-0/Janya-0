@@ -126,6 +126,33 @@ Chaerim (first summer)
 </div>
 <div align="center">
 thoma (genshin impact)
+<div id="header" align="center">
+<table> 
+<tr> 
+<td><img src="https://media.tenor.com/7pK2AxqtAPMAAAAi/inanimate-insanity-mephone-4.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/gYkekK4hYdMAAAAi/stamp-stocking.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/2CDN2Cj26nYAAAAi/kidcore-rainbowcore.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/8KbSPyg4e64AAAAi/stamp-shadow-milk.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/bd8MzPqIKTkAAAAi/stamp-web-decor.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/86O9sTeU0gwAAAAi/stamp-web-decor.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/s5a_s_4OUUIAAAAi/stamp-spacehey.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/Z-d716QeLZMAAAAi/kasane-teto-utau.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/87NiNPm2P4IAAAAi/stamp-gas.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/BaBtrdYHTmEAAAAi/stamp.gif" /> 
+</td> 
+
+
+</tr> 
+</table>
 
 
 <div align="center">
