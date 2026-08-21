@@ -97,7 +97,7 @@ Chaerim (first summer)
 <div id="header" align="center">
 <table> 
 <tr> 
-<td><img src="https://media.tenor.com/Grpg_vBq8coAAAAi/stamp-cat.gif" /> 
+<td><img src="" /> 
 </td> 
 <td><img src="https://media.tenor.com/CHOikupvVjMAAAAi/cute-stamp.gif" /> 
 </td> 
