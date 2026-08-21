@@ -94,17 +94,33 @@
 
 
 Chaerim (first summer)
-<div align="center">
-  <img src="https://media.tenor.com/0lpE7LZgYKwAAAAM/soft-strawberry.gif" width="700" height="10"/>
-</div>
+<div id="header" align="center">
+<table> 
+<tr> 
+<td><img src="https://media.tenor.com/Grpg_vBq8coAAAAi/stamp-cat.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/CHOikupvVjMAAAAi/cute-stamp.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/fqaI-4Dr5aUAAAAi/heisuke-sakamoto-days.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/u99bOAFYbJ8AAAAi/crona-stamp.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/p7o6VPHkhokAAAAi/mizi-zombie-stage.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/6tkPtHB7kukAAAAi/kasane-teto-teto-kasane.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/gYkekK4hYdMAAAAi/stamp-stocking.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/BF_GzkfOqaoAAAAi/inanimate-insanity-paintbrush.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/eBReyRJXR68AAAAi/kalynn-koury-sinjin-drowning.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/pbMjnMpOpFwAAAAi/cute-stamp.gif" /> 
+</td> 
 
-<div align="center">
-  <img src="https://media1.tenor.com/m/lr6Me7qyE-IAAAAd/сакура.gif" width="700" height="25"/>
-</div>
-<div align="center">
- <div align="center">
-  <img src="https://media.tenor.com/0lpE7LZgYKwAAAAM/soft-strawberry.gif" width="700" height="10"/>
-</div>
+
+</tr> 
+</table>
 
   <img src="https://media1.tenor.com/m/COCQ5Yorv5sAAAAd/thoma-taroumaru.gif" width="600" height="200"/>
 </div>
