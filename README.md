@@ -154,7 +154,9 @@ thoma (genshin impact)
 </tr> 
 </table>
 
-
+<div align="center">
+  <img src="https://media1.tenor.com/m/7Zs-suACJWgAAAAC/suo-hayato-suo.gif" width="600" height="200"/>
+</div>
 
 
 hayato suo (windbreaker) 
