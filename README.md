@@ -152,8 +152,4 @@ other:
 Alien Stage, I.O.N, The Mandela Catalogue, Angel Machine, Saihate Station, Cold Front, Dead Plate, Dramatic Murder, Genshin Impact, Zeno Remake
 </details>
 
-<div id="header" align="center">
-<table> 
-<tr> 
-<td><img src="https://media.tenor.com/Grpg_vBq8coAAAAi/stamp-cat.gif" /> 
-</td> 
+<img width="500" height="375" alt="image" src="https://github.com/user-attachments/assets/ed4dae3e-4939-46a2-b185-8cb721c2d3df" />
