@@ -139,7 +139,7 @@ I’m an artist/gamer and a bit of a multifandom person — I code for fun and d
 </td> 
 <td><img src="https://pin.it/1P9UlOGYX" /> 
 </td> 
-<td><img src="https://i.oneme.ru/i?r=B0xHQN0Qr3SEKX3_pN16y7fxl_cs8aEZydgYZMYobejE5Ui__D2YS7JuRdmSmOjPuwwmDpplxnikhzA0ZF89bANjzkiImyGf9bFdQNU" /> 
+<td><img src="https://tenor.com/pZcRSt3ZgGf.gif" /> 
 </td> 
 
 
