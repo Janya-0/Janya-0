@@ -119,7 +119,7 @@
 
 # Hii!! I'm Janya
 
-<img width="5" height="5" alt="image" src="https://github.com/user-attachments/assets/a0c6844a-721c-450c-8478-936e2f5c1eb0" /> About me...
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/a0c6844a-721c-450c-8478-936e2f5c1eb0" /> About me...
 
 I’m an artist/gamer and a bit of a multifandom person — I code for fun and do theater
 
