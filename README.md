@@ -117,9 +117,9 @@
 </tr> 
 </table>
 
-# ? Hii!! I'm Janya
+# Hii!! I'm Janya
 
-## ?‍? About me...
+## About me...
 I’m an artist/gamer and a bit of a multifandom person — I code for fun and do theater
 
 ## ? Текущие проекты
