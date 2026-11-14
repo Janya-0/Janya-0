@@ -135,7 +135,7 @@ I’m an artist/gamer and a bit of a multifandom person — I code for fun and d
 </td> 
 <td><img src="https://media.tenor.com/gYkekK4hYdMAAAAi/stamp-stocking.gif" /> 
 </td> 
-<td><img src="https://media.tenor.com/BF_GzkfOqaoAAAAi/inanimate-insanity-paintbrush.gif" /> 
+<td><img src="https://tenor.com/ru/view/spacehey-stamp-sankarea-anime-gif-16959229848158002431" /> 
 </td> 
 <td><img src="https://pin.it/1P9UlOGYX" /> 
 </td> 
