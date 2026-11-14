@@ -141,7 +141,8 @@ comics/manhwa/mangas:
 
 Se trata de nada, Together, Fragments of Dreams, Are you here?, Meaning, Sacrificial Beast, The Tale of Bygone Years, Physically Impossible, One Wheat Mark, Countdown to Countdown, Project Otanik, Wolfhound, Grey Cardinal, Under the Green Light, Global Exam, GSGW, Bullet Time, Liveta, Room without windows, 19 Days, Let's go to karaoke / Let's go to a family restaurant (That’s not all)
 
-<img width="735" height="424" alt="image" src="https://github.com/user-attachments/assets/37f6825c-22cd-491f-bd07-ac3a91b1517e" />
+<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/c237aff8-8521-49bb-a390-244d878305e3" />
+
 
 books:
 
