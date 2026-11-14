@@ -122,8 +122,5 @@
 ## About me...
 I’m an artist/gamer and a bit of a multifandom person — I code for fun and do theater
 
-## ? Текущие проекты
-– **Платформа аналитики данных** — разрабатываю масштабируемое решение для анализа больших данных с использованием Python и Apache Spark.
-– **API Gateway Service** — создаю централизованный шлюз для микросервисной архитектуры на FastAPI.
-– **Data Processing Library** — участвую в разработке open-source-библиотеки для эффективной обработки и валидации данных.
-– **Tech Blog** — веду технический блог о бэкенд-разработке и DevOps-практиках.
+## DNI
+Racism, Homophobia, Transphobia, Radfem, Support the war, Everything that ends in "-phile", Sexism, Fascism, Nazism, Xenophobia, Antisemitism, Ageism, Under 12 years old.
