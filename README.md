@@ -155,5 +155,5 @@ Alien Stage, I.O.N, The Mandela Catalogue, Angel Machine, Saihate Station, Cold 
 <div id="header" align="center">
 <table> 
 <tr> 
-<td><img src="https://tenor.com/ru/view/glitter-fairy-stamp-pretty-gif-3039586576225247523" /> 
+<td><img src="<div class="tenor-gif-embed" data-postid="3039586576225247523" data-share-method="host" data-aspect-ratio="1.76" data-width="100%"><a href="https://tenor.com/view/glitter-fairy-stamp-pretty-gif-3039586576225247523">Glitter Fairy Sticker</a>from <a href="https://tenor.com/search/glitter-stickers">Glitter Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" /> 
 </td> 
