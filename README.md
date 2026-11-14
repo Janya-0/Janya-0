@@ -160,3 +160,9 @@ Alien Stage, I.O.N, The Mandela Catalogue, Angel Machine, Saihate Station, Cold 
 
 # try me
 
+
+
+
+<img width="735" height="490" alt="image" src="https://github.com/user-attachments/assets/3dc97173-33fa-44f5-9efb-c51a1010c480" />
+[25(1) (mp3cut.net)-with-music.mp3](https://github.com/user-attachments/files/34859399/25.1.mp3cut.net.-with-music.mp3)
+
