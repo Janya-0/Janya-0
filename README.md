@@ -163,7 +163,4 @@ Alien Stage, I.O.N, The Mandela Catalogue, Angel Machine, Saihate Station, Cold 
 
 
 
-<img width="735" height="490" alt="image" src="https://github.com/user-attachments/assets/3dc97173-33fa-44f5-9efb-c51a1010c480" />
 
-[![Нажмите, чтобы послушать](<img width="735" height="490" alt="image" src="https://github.com/user-attachments/assets/b5c0067a-a58e-4abc-a17a-17043cb4aa63" />
-]()
