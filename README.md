@@ -117,11 +117,10 @@
 </tr> 
 </table>
 
-# ? Привет, я Рустам!
+# ? Hii!! I'm Janya
 
-## ?‍? О себе
-Senior Backend Developer с 5-летним опытом разработки высоконагруженных систем.
-Специализируюсь на Python и микросервисной архитектуре.
+## ?‍? About me...
+I’m an artist/gamer and a bit of a multifandom person — I code for fun and do theater
 
 ## ? Текущие проекты
 – **Платформа аналитики данных** — разрабатываю масштабируемое решение для анализа больших данных с использованием Python и Apache Spark.
