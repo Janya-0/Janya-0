@@ -131,6 +131,7 @@ Racism, Homophobia, Transphobia, Radfem, Support the war, Everything that ends i
 yaoi anime:
  
 Classmates, Stranger by the Shore, Sk8 the Infinity, Zone 6, Homeless, Unloved, Soul Contract, Banana Fish, Heaven Official's Blessing, Go for it, Nakamura-kun!, Pure Romance, Sasaki and Miyano, The fate of a parallel world in the hands of a workaholic, Carefree Days, Hidden behind the scenes, Hyperventilation, Hikari: Oud my light, Min Yong in honor of the asset, Semantic Error, 4-Week Lover, My Hero's Monopoly, Yes, No, or Maybe?, The Tyrant Who Fell in Love, Turns out you can become a wizard if you keep your virginity until 30, Please Be Quiet!, Yuri!!! on Ice, The Given, Time Agents, Descendants of Darkness, The first bird doesn't flap its wings: clouds are gathering, The Grandmaster of Demonic Cultivation, Sarazanmai, The Night Beyond the Tricornered Window, Apartment Neighbor, I'm home. Welcome back, Love Stage!!, Vassalord, Betrayal Knows My Name, Gravitation, Key Yarishin, Chaos in my bathroom, Joints, Shall we go to karaoke?
+<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/2f149681-67c1-44b5-b86d-dcaba00d7b53" />
 
 anime:
 
