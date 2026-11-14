@@ -119,12 +119,12 @@
 
 # Hii!! I'm Janya
 
-## About me...
+About me...
 I’m an artist/gamer and a bit of a multifandom person — I code for fun and do theater
 
-## DNI
+ DNI
 Racism, Homophobia, Transphobia, Radfem, Support the war, Everything that ends in "-phile", Sexism, Fascism, Nazism, Xenophobia, Antisemitism, Ageism, Under 12 years old.
 <details>
-  <summary> ## Нажмите, чтобы показать спойлер</summary>
+  <summary> Нажмите, чтобы показать спойлер</summary>
   А здесь скрытый текст, который появится после клика.
 </details>
