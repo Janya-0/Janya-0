@@ -122,7 +122,29 @@
 About me...
 
 I’m an artist/gamer and a bit of a multifandom person — I code for fun and do theater
+</td> 
+<td><img src="https://media.tenor.com/CHOikupvVjMAAAAi/cute-stamp.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/fqaI-4Dr5aUAAAAi/heisuke-sakamoto-days.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/u99bOAFYbJ8AAAAi/crona-stamp.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/p7o6VPHkhokAAAAi/mizi-zombie-stage.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/6tkPtHB7kukAAAAi/kasane-teto-teto-kasane.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/gYkekK4hYdMAAAAi/stamp-stocking.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/BF_GzkfOqaoAAAAi/inanimate-insanity-paintbrush.gif" /> 
+</td> 
+<td><img src="https://pin.it/1P9UlOGYX" /> 
+</td> 
+<td><img src="https://pin.it/6ulAIxHBe" /> 
+</td> 
 
+
+</tr> 
+</table>
  DNI
 
 Racism, Homophobia, Transphobia, Radfem, Support the war, Everything that ends in "-phile", Sexism, Fascism, Nazism, Xenophobia, Antisemitism, Ageism, Under 12 years old.
