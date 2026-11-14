@@ -4,55 +4,98 @@
     <meta charset="UTF-8">
     <title>Моя музыка</title>
     <style>
-        /* Общий фон страницы */
+        /* Фон страницы */
         body {
             background: linear-gradient(135deg, #1e1e2f, #3a3a5a);
             color: white;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             display: flex;
-            flex-direction: column;
             align-items: center;
             justify-content: center;
-            height: 100vh;
+            min-height: 100vh;
             margin: 0;
+            padding: 20px;
+            box-sizing: border-box;
         }
 
-        /* Карточка плеера */
+        /* Сама карточка */
         .player-card {
             background: rgba(255, 255, 255, 0.1);
             backdrop-filter: blur(10px);
-            padding: 30px;
+            padding: 25px;
             border-radius: 20px;
             box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
-            text-align: center;
             border: 1px solid rgba(255, 255, 255, 0.2);
+            max-width: 450px;
+            width: 100%;
+        }
+
+        /* Блок с картинкой и текстом (ставит их в ряд) */
+        .top-section {
+            display: flex;       /* Ставит элементы в одну строку */
+            align-items: center; /* Выравнивает по центру по вертикали */
+            gap: 20px;           /* Расстояние между картинкой и текстом */
+            margin-bottom: 25px; /* Отступ снизу до плеера */
+        }
+
+        /* Картинка */
+        .cover-img {
+            width: 100px;
+            height: 100px;
+            object-fit: cover;
+            border-radius: 12px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+        }
+
+        /* Блок с текстом */
+        .text-container {
+            text-align: left; /* Текст выравнивается по левому краю */
         }
 
         h1 {
-            margin-top: 0;
-            font-weight: 300;
-            letter-spacing: 2px;
-            text-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+            margin: 0 0 5px 0;
+            font-size: 20px;
+            font-weight: 600;
         }
 
-        /* Немного стилизуем сам тег audio */
+        .description {
+            margin: 0;
+            font-size: 14px;
+            color: #b3b3b3;
+            line-height: 1.4;
+        }
+
+        /* Плеер (растягиваем на всю ширину карточки) */
         audio {
             width: 100%;
-            max-width: 400px;
             border-radius: 30px;
             outline: none;
-            /* Меняет цвет ползунка в некоторых браузерах */
             accent-color: #ff7eb3; 
         }
     </style>
 </head>
 <body>
     <div class="player-card">
-        <h1>Слушаем музыку</h1>
+        
+        <!-- Верхняя часть: Картинка + Текст -->
+        <div class="top-section">
+            <img src="cover.jpg" alt="Обложка" class="cover-img">
+            
+            <div class="text-container">
+                <h1>Название трека</h1>
+                <p class="description">
+                    Исполнитель или описание.<br>
+                    Можно написать пару строк текста.
+                </p>
+            </div>
+        </div>
+
+    https://fd.oneme.ru/getfile?rq=AICPzuaEIeWvqMaJBnq6cogilFKwbzXzhF-PCiMVLKvgHJDRJ4g73AgYHX9t0i2JWQPstC1jLYFVvQSQbaunOuZNURogrGeY71o4f7JWGmKULDS_2zITdEThwRq3j930f7kOV5zUn4LdSiR0HhszyU65mdlUBZcZy9ruxZK0MsAMnw218mvMTDfCx7wsA3fKrw&expires=1794770173919
         <audio controls>
             <source src="music.mp3" type="audio/mpeg">
             Ваш браузер не поддерживает аудио.
         </audio>
+        
     </div>
 </body>
 </html>
