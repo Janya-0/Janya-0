@@ -128,21 +128,26 @@ I’m an artist/gamer and a bit of a multifandom person — I code for fun and d
 Racism, Homophobia, Transphobia, Radfem, Support the war, Everything that ends in "-phile", Sexism, Fascism, Nazism, Xenophobia, Antisemitism, Ageism, Under 12 years old.
 <details>
   <summary> Fandom </summary>
-# yaoi anime:
+yaoi anime:
+ 
 Classmates, Stranger by the Shore, Sk8 the Infinity, Zone 6, Homeless, Unloved, Soul Contract, Banana Fish, Heaven Official's Blessing, Go for it, Nakamura-kun!, Pure Romance, Sasaki and Miyano, The fate of a parallel world in the hands of a workaholic, Carefree Days, Hidden behind the scenes, Hyperventilation, Hikari: Oud my light, Min Yong in honor of the asset, Semantic Error, 4-Week Lover, My Hero's Monopoly, Yes, No, or Maybe?, The Tyrant Who Fell in Love, Turns out you can become a wizard if you keep your virginity until 30, Please Be Quiet!, Yuri!!! on Ice, The Given, Time Agents, Descendants of Darkness, The first bird doesn't flap its wings: clouds are gathering, The Grandmaster of Demonic Cultivation, Sarazanmai, The Night Beyond the Tricornered Window, Apartment Neighbor, I'm home. Welcome back, Love Stage!!, Vassalord, Betrayal Knows My Name, Gravitation, Key Yarishin, Chaos in my bathroom, Joints, Shall we go to karaoke?
 
-# anime:
+anime:
+
 Evangelion, Death Note, Wind Breaker, Hetalia, The Millionaire Detective - Balance: UNLIMITED, Code Geass, Ouran High School Host Club, There is no cure for my brother, xxxHOLiC, Goodbye, Mr. Despair, The Charms of Fishing, Magical Girl, The Case Study of Vanitas, Overserk, Black Butler, Seraph of the End, Orange Toxin, The Great of the Howling Dogs (Bungo Stray Dogs), Chainsaw Man, Scott Pilgrim
 
-# comics/manhwa/mangas:
+comics/manhwa/mangas:
+
 Se trata de nada, Together, Fragments of Dreams, Are you here?, Meaning, Sacrificial Beast, The Tale of Bygone Years, Physically Impossible, One Wheat Mark, Countdown to Countdown, Project Otanik, Wolfhound, Grey Cardinal, Under the Green Light, Global Exam, GSGW, Bullet Time, Liveta, Room without windows, 19 Days, Let's go to karaoke / Let's go to a family restaurant (That’s not all)
 
 # books:
+
 Summer in a Pioneer Tie, What the Swallow Prays For, Symphony of Black Water, Behind the Wall, Crime and Punishment, The Master and Margarita, Underwater Library, Nanomachine
 
-# movies/TV series:
+movies/TV series:
 Re-Animator, Phantom of the Paradise, Friends, Hannibal, Major Grom (all parts), Chernobyl: Exclusion Zone, Fight Club, Good Omens
 
-# other:
+other:
+
 Alien Stage, I.O.N, The Mandela Catalogue, Angel Machine, Saihate Station, Cold Front, Dead Plate, Dramatic Murder, Genshin Impact, Zeno Remake
 </details>
