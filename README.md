@@ -140,7 +140,7 @@ comics/manhwa/mangas:
 
 Se trata de nada, Together, Fragments of Dreams, Are you here?, Meaning, Sacrificial Beast, The Tale of Bygone Years, Physically Impossible, One Wheat Mark, Countdown to Countdown, Project Otanik, Wolfhound, Grey Cardinal, Under the Green Light, Global Exam, GSGW, Bullet Time, Liveta, Room without windows, 19 Days, Let's go to karaoke / Let's go to a family restaurant (That’s not all)
 
-# books:
+books:
 
 Summer in a Pioneer Tie, What the Swallow Prays For, Symphony of Black Water, Behind the Wall, Crime and Punishment, The Master and Margarita, Underwater Library, Nanomachine
 
