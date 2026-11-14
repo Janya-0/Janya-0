@@ -122,7 +122,34 @@
 About me...
 
 I’m an artist/gamer and a bit of a multifandom person — I code for fun and do theater
+<div id="header" align="center">
+<table> 
+<tr> 
+<td><img src="https://media.tenor.com/Grpg_vBq8coAAAAi/stamp-cat.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/CHOikupvVjMAAAAi/cute-stamp.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/fqaI-4Dr5aUAAAAi/heisuke-sakamoto-days.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/u99bOAFYbJ8AAAAi/crona-stamp.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/p7o6VPHkhokAAAAi/mizi-zombie-stage.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/6tkPtHB7kukAAAAi/kasane-teto-teto-kasane.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/gYkekK4hYdMAAAAi/stamp-stocking.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/BF_GzkfOqaoAAAAi/inanimate-insanity-paintbrush.gif" /> 
+</td> 
+<td><img src="https://media.tenor.com/eBReyRJXR68AAAAi/kalynn-koury-sinjin-drowning.gif" /> 
+</td> 
+<td><img src="<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/db7c57fa-6b8b-4dce-b992-04afda43be8e" />
+" /> 
+</td> 
 
+
+</tr> 
+</table>
  DNI
 
 Racism, Homophobia, Transphobia, Radfem, Support the war, Everything that ends in "-phile", Sexism, Fascism, Nazism, Xenophobia, Antisemitism, Ageism, Under 12 years old.
