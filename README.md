@@ -154,6 +154,5 @@ Alien Stage, I.O.N, The Mandela Catalogue, Angel Machine, Saihate Station, Cold 
 </details>
 
 <img width="500" height="375" alt="image" src="https://github.com/user-attachments/assets/ed4dae3e-4939-46a2-b185-8cb721c2d3df" />
-
-<img width="735" height="453" alt="image" src="https://github.com/user-attachments/assets/3c1f1c1f-d725-429e-aa05-b07eef418950" />
+# try me
 
